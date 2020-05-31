@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450479761468",
+    "firebase_url": "https://hackertypers-73174.firebaseio.com",
+    "project_id": "hackertypers-73174",
+    "storage_bucket": "hackertypers-73174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450479761468:android:34d284b725f70105f93b39",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450479761468-k69ao5sbiop608u4viqvjk6feiuiddl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rlwiPun4e-yacV385eqLdAnTNeKll20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450479761468-k69ao5sbiop608u4viqvjk6feiuiddl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
