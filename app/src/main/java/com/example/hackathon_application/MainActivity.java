@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView registration;
     int[] chosen;
 
-    //GIT UPDATE TEST
+    //GIT UPDATE TEST V2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
